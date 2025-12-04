@@ -1,2 +1,4 @@
 # Hiding puzzles.
+.DS_store
 *.txt
+*.swp
